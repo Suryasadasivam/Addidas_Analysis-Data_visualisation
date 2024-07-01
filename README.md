@@ -14,3 +14,4 @@ This project aims to provide a thorough analysis of Adidas’ sales performance 
 - Operating Profit: A measure of the profitability from the main business operations.
 - Operating Margin: A ratio indicating the profitability of the business operations.
 - Sales Method: The channels through which sales were made, including In-store, Outlet, and Online.
+<img width="510" alt="image" src="https://github.com/Suryasadasivam/Addidas_Analysis-Data_visualisation/assets/162082177/de550fa7-6e68-4f10-968a-2f234e46d141">
